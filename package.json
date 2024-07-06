@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "simulate": "source .env && node ./Functions-simulate-script.js"
+  }
+}
